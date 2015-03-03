@@ -1,0 +1,49 @@
+Mapping from Windows 8.1 with an xbox360 controller
+FACE_1:A
+FACE_2:B
+FACE_3:X
+FACE_4:Y
+LEFT_TOP_SHOULDER: Left top shoulder
+RIGHT_TOP_SHOULDER: Right top shoulder
+LEFT_BOTTOM_SHOULDER:Left trigger [0,1]
+RIGHT_BOTTOM_SHOULDER:Right trigger [0,1]
+SELECT_BACK: Select/back
+START_FORWARD:Start
+LEFT_STICK_X:	(nothing)
+LEFT_STICK_Y:	(nothing)
+RIGHT_STICK_X:	(nothing)
+RIGHT_STICK_Y:	(nothing)
+DPAD_UP:	up
+DPAD_DOWN:	down
+DPAD_LEFT:	left
+DPAD_RIGHT:	right
+HOME: (nothing)
+LEFT_STICK_X:	[left:-1,right:1]
+LEFT_STICK_Y:	[up:-1,down:1]
+RIGHT_STICK_X:	[left:-1,right:1]
+RIGHT_STICK_Y:	[up:-1,down:1]
+
+Mapping from archlinux with xboxdrv 0.8.5-3 driver
+FACE_1:A
+FACE_2:B
+FACE_3:X
+FACE_4:Y
+LEFT_TOP_SHOULDER: Left top shoulder
+RIGHT_TOP_SHOULDER: Right top shoulder
+LEFT_BOTTOM_SHOULDER:Left trigger [0,1]
+RIGHT_BOTTOM_SHOULDER:Right trigger [0,1]
+SELECT_BACK: Select/back
+START_FORWARD:Start
+LEFT_STICK_X:	(nothing)
+LEFT_STICK_Y:	(nothing)
+RIGHT_STICK_X:	(nothing)
+RIGHT_STICK_Y:	(nothing)
+DPAD_UP:	up
+DPAD_DOWN:	down
+DPAD_LEFT:	left
+DPAD_RIGHT:	right
+HOME: home
+LEFT_STICK_X:	[left:-1,right:1]
+LEFT_STICK_Y:	[up:-1,down:1]
+RIGHT_STICK_X:	[left:-1,right:1]
+RIGHT_STICK_Y:	[up:-1,down:1]
